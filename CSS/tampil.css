@@ -1,0 +1,9 @@
+body {
+    font-family: "Karla", sans-serif;
+    background-color: hsl(0, 0%, 96%);
+    min-height: 100vh; 
+    margin: 100px;
+}
+.container{
+    border-radius: 25px;
+}
